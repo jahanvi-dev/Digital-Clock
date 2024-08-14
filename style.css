@@ -7,24 +7,21 @@
 html, body{
     height: 100%;
     width: 100%;
-    background-color: rgba(20, 20, 71, 0.751);
+    background-color: rgba(0, 0, 0, 0.734);
 }
 
 .clock_container{
     height: 30vh;
     width: 40vw;
-    background-color: rgba(20, 20, 71, 0.751);
+    background-color: rgba(255, 255, 255, 0.84);
     transform: translate(75%, 80%);
     text-align: center;
-    color: white;
-    /* font-family: 'Orbitron'; */
+    color: black;
     font-family: 'Playwrite NG Modern';
     font-weight: 400;
-    font-size: 5vw;
-    padding-top: 2.5vw;
-    border-radius: 15px;
+    font-size: 4vw;
+    padding-top: 3.5vw;
     border: none;
-    box-shadow: 5px 5px 40px rgba(232, 232, 224, 0.768);
     
 }
 
@@ -33,7 +30,8 @@ html, body{
     color: white;
     font-family: 'Poppins';
     text-align: center;
-    margin-top: 20vw;
-    font-size: 1.4vw;
+    margin-top: 15vw;
+    font-size: 1.2vw;
+    font-weight: 300;
 
 }
